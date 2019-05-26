@@ -1,2 +1,2 @@
 # DevClub
-#Starting programing in C
+#Starting programing on C
